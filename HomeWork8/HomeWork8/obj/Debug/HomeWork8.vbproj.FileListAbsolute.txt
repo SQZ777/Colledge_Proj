@@ -1,0 +1,42 @@
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe.config
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\bin\Debug\HomeWork8.pdb
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\bin\Debug\HomeWork8.xml
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form1.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Resources.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.vbproj.GenerateResource.Cache
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.exe
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.xml
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.pdb
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form2.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.vbprojResolveAssemblyReference.cache
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form3.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form4.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe.config
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.exe
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.xml
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.pdb
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.vbprojResolveAssemblyReference.cache
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form1.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form2.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form3.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form4.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Resources.resources
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.vbproj.GenerateResource.Cache
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\bin\Debug\HomeWork8.pdb
+E:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\bin\Debug\HomeWork8.xml
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe.config
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.exe
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.xml
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.pdb
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\bin\Debug\HomeWork8.pdb
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\bin\Debug\HomeWork8.xml
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.vbprojResolveAssemblyReference.cache
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form1.resources
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form2.resources
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form3.resources
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form4.resources
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Resources.resources
+D:\about colledge\Coding程式語言\網路程式設計\HomeWork8 TCPIP版本\HomeWork8\HomeWork8\obj\Debug\HomeWork8.vbproj.GenerateResource.Cache
