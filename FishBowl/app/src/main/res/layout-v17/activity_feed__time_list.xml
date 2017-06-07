@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.sqz777.fishbowl.Feed_TimeList"
+    android:orientation="vertical"
+    android:background="@drawable/feed_tl_bgcolor"
+    >
+
+    <LinearLayout tools:context="com.example.sqz777.fishbowl.Feed_TimeList"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="horizontal"
+        android:layout_marginTop="-15dp"
+        android:layout_marginLeft="-20dp"
+        android:weightSum="1">
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="&lt;"
+            android:id="@+id/bbb"
+            android:layout_marginTop="0dp"
+            android:background="@drawable/feed_back_color"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffffff"
+            android:textSize="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="65dp"
+            android:text="Feed_TimeList"
+            android:id="@+id/textView"
+            android:layout_weight="1.49"
+            android:layout_marginTop="5dp"
+            android:textSize="40dp"
+            android:textAlignment="center"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+    <LinearLayout tools:context="com.example.sqz777.fishbowl.Feed_TimeList"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="horizontal"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="0dp"
+        android:weightSum="1"
+        android:background="@drawable/feed_edgecolor"
+        android:backgroundTintMode="screen">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="未設定時間"
+            android:id="@+id/st1"
+            android:layout_marginTop="5dp"
+            android:textSize="30dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffffff"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout tools:context="com.example.sqz777.fishbowl.Feed_TimeList"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="0dp"
+        android:weightSum="1"
+        android:background="@drawable/feed_edgecolor" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="未設定時間"
+            android:id="@+id/st2"
+            android:layout_marginTop="5dp"
+            android:textSize="30dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffffff"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout tools:context="com.example.sqz777.fishbowl.Feed_TimeList"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="0dp"
+        android:weightSum="1"
+        android:background="@drawable/feed_edgecolor" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="未設定時間"
+            android:id="@+id/st3"
+            android:layout_marginTop="5dp"
+            android:textSize="30sp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffffff"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout tools:context="com.example.sqz777.fishbowl.Feed_TimeList"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="0dp"
+        android:weightSum="1"
+        android:background="@drawable/feed_edgecolor" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="未設定時間"
+            android:id="@+id/st4"
+            android:layout_marginTop="5dp"
+            android:textSize="30dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffffff"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout tools:context="com.example.sqz777.fishbowl.Feed_TimeList"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="78dp"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="0dp"
+        android:weightSum="1"
+        android:background="@drawable/feed_edgecolor" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="未設定時間"
+            android:id="@+id/st5"
+            android:layout_marginTop="0dp"
+            android:textSize="30dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffffff"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+

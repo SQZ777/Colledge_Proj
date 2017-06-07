@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/changepw_tl_bgcolor">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Input your new password"
+            android:id="@+id/textView5"
+            android:textColor="#354B87"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="5dp" />
+
+    </LinearLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/NP"
+        android:textColor="#6a89d0"
+        android:layout_marginLeft="10dp"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Confirm your new password"
+        android:id="@+id/textView4"
+        android:textColor="#354B87"
+        android:layout_marginLeft="10dp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/NP2"
+            android:textColor="#6a89d0"
+            android:layout_marginLeft="10dp"
+            android:inputType="textPassword" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:weightSum="1">
+
+        <Button
+            android:layout_width="151dp"
+            android:layout_height="wrap_content"
+            android:text="cancle"
+            android:id="@+id/canbtn"
+
+            android:background="@drawable/changepw_btnshape"
+            android:textColor="#ffffff"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="3dp" />
+
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="Confirm"
+            android:id="@+id/changebtn"
+
+            android:background="@drawable/changepw_btnshape"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffffff"
+            android:layout_weight="0.15"
+            android:layout_marginTop="3dp" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="  "
+        android:id="@+id/textView6"
+        android:layout_marginTop="-5dp" />
+
+</LinearLayout>
